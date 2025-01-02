@@ -1,2 +1,2 @@
 # CS-Foundation-Skills
-A collection of projects from my Computing Skills course, showcasing foundational technical skills and applied problem-solving across modules in computer science and data science.
+This folder showcases projects developed during my Computing Skills course, a foundational class designed to build proficiency in essential technical skills applicable across computer science and interdisciplinary fields like bioinformatics and data science. These projects reflect my independent learning, mastery of tools, and progression through structured modules, culminating in deliverables that demonstrate applied problem-solving and technical expertise.
